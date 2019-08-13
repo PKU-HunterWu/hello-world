@@ -1,4 +1,4 @@
-# hell-world
+# hello-world
 Just the first project in Github
 
 Hi Humans!
